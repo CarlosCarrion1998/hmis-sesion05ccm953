@@ -1,6 +1,11 @@
 package ual.hmis.sesion05.ejercicio3;
 
 public class Ejercicio3 {
+	/**
+	 * Método que convierte una contraseña a asteriscos según su longitud
+	 * @param pass
+	 * @return String
+	 */
 	public String enmascarar(String pass) {
 		if(pass.length() < 5) return "password demasiado corto";
 		if(pass.length() <= 8) return "********";

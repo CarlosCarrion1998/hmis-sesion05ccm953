@@ -5,6 +5,12 @@ import java.util.List;
 
 public class Ejercicio5 {
 	
+	/**
+	 * Fusiona dos listas en base a su contenido
+	 * @param lista1
+	 * @param lista2
+	 * @return Combinación de ambas listas
+	 */
 	public List<Integer> fusionarListas(List<Integer> lista1, List<Integer> lista2) {
 		List<Integer> listaFusion = new ArrayList<Integer>();
 		

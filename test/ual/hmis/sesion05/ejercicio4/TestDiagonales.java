@@ -1,10 +1,7 @@
 package ual.hmis.sesion05.ejercicio4;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
 
-import java.util.Arrays;
-
-import org.junit.Assert;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
@@ -37,7 +34,7 @@ class TestDiagonales {
 	@Test
 	void testInicializar() {
 		Diagonales d = new Diagonales();
-		Assert.assertNotNull(d);
+		assertNotNull(d);
 	}
 	
 	private int[][] convertirArrayInt(String input) {

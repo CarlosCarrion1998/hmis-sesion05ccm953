@@ -1,0 +1,57 @@
+@options
+@packages
+--class-path
+'C:/Users/Carlos/hmis-workspace/Sesion05ccm953/target/classes;C:/Users/Carlos/hmis-workspace/Sesion05ccm953/target/test-classes;C:/Users/Carlos/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.2/junit-jupiter-engine-5.9.2.jar;C:/Users/Carlos/.m2/repository/org/junit/platform/junit-platform-engine/1.9.2/junit-platform-engine-1.9.2.jar;C:/Users/Carlos/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar;C:/Users/Carlos/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.2/junit-jupiter-api-5.9.2.jar;C:/Users/Carlos/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar;C:/Users/Carlos/.m2/repository/org/junit/platform/junit-platform-commons/1.9.2/junit-platform-commons-1.9.2.jar;C:/Users/Carlos/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.9.2/junit-jupiter-params-5.9.2.jar;C:/Users/Carlos/.m2/repository/nl/talsmasoftware/umldoclet/2.1.0/umldoclet-2.1.0.jar;C:/Users/Carlos/.m2/repository/junit/junit/4.12/junit-4.12.jar;C:/Users/Carlos/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/Carlos/.m2/repository/org/apache/commons/commons-collections4/4.0/commons-collections4-4.0.jar;C:/Users/Carlos/.m2/repository/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar;C:/Users/Carlos/.m2/repository/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar'
+-doclet
+'nl.talsmasoftware.umldoclet.UMLDoclet'
+-docletpath
+'C:/Users/Carlos/.m2/repository/nl/talsmasoftware/umldoclet/2.1.0/umldoclet-2.1.0.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/Carlos/hmis-workspace/Sesion05ccm953/test'
+-umlImageFormat svg_img
+-private
+-umlExcludedTypeReferences
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Carlos/hmis-workspace/Sesion05ccm953/target/site/en/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Sesion07ccm953 0.0.1-SNAPSHOT Test API'
+-link
+'../apidocs'
+-use
+-version
+-windowtitle
+'Sesion07ccm953 0.0.1-SNAPSHOT Test API'
+ual.hmis.sesion05.ejercicio1
+ual.hmis.sesion05.ejercicio2
+ual.hmis.sesion05.ejercicio3
+ual.hmis.sesion05.ejercicio4
+ual.hmis.sesion05.ejercicio5
+C:\Users\Carlos\hmis-workspace\Sesion05ccm953\test = 1682854628612
+C:\Users\Carlos\hmis-workspace\Sesion05ccm953\target\site\en\testapidocs\allclasses-index.html = 1685717584686
+C:\Users\Carlos\hmis-workspace\Sesion05ccm953\target\site\en\testapidocs\allpackages-index.html = 1685717584690
+C:\Users\Carlos\hmis-workspace\Sesion05ccm953\target\site\en\testapidocs\element-list = 1685717584584
+C:\Users\Carlos\hmis-workspace\Sesion05ccm953\target\site\en\testapidocs\help-doc.html = 1685717584714
+C:\Users\Carlos\hmis-workspace\Sesion05ccm953\target\site\en\testapidocs\index-all.html = 1685717584707
+C:\Users\Carlos\hmis-workspace\Sesion05ccm953\target\site\en\testapidocs\index.html = 1685717586847
+C:\Users\Carlos\hmis-workspace\Sesion05ccm953\target\site\en\testapidocs\jquery-ui.overrides.css = 1685717584843
+C:\Users\Carlos\hmis-workspace\Sesion05ccm953\target\site\en\testapidocs\member-search-index.js = 1685717584694
+C:\Users\Carlos\hmis-workspace\Sesion05ccm953\target\site\en\testapidocs\module-search-index.js = 1685717584691
+C:\Users\Carlos\hmis-workspace\Sesion05ccm953\target\site\en\testapidocs\overview-summary.html = 1685717584710
+C:\Users\Carlos\hmis-workspace\Sesion05ccm953\target\site\en\testapidocs\overview-tree.html = 1685717584665
+C:\Users\Carlos\hmis-workspace\Sesion05ccm953\target\site\en\testapidocs\package-dependencies.svg = 1685717586739
+C:\Users\Carlos\hmis-workspace\Sesion05ccm953\target\site\en\testapidocs\package-search-index.js = 1685717584692
+C:\Users\Carlos\hmis-workspace\Sesion05ccm953\target\site\en\testapidocs\script.js = 1685717584725
+C:\Users\Carlos\hmis-workspace\Sesion05ccm953\target\site\en\testapidocs\search.js = 1685717584727
+C:\Users\Carlos\hmis-workspace\Sesion05ccm953\target\site\en\testapidocs\stylesheet.css = 1685717584722
+C:\Users\Carlos\hmis-workspace\Sesion05ccm953\target\site\en\testapidocs\tag-search-index.js = 1685717584695
+C:\Users\Carlos\hmis-workspace\Sesion05ccm953\target\site\en\testapidocs\type-search-index.js = 1685717584693
