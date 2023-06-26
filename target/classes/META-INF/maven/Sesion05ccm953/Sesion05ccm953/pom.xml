@@ -17,8 +17,7 @@
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.11.0</version>
-				<configuration>
-				</configuration>
+				<configuration></configuration>
 			</plugin>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
@@ -96,7 +95,7 @@
 				<artifactId>maven-javadoc-plugin</artifactId>
 				<version>3.5.0</version>
 				<configuration>
-					
+
 					<doclet>nl.talsmasoftware.umldoclet.UMLDoclet</doclet>
 					<docletArtifact>
 						<groupId>nl.talsmasoftware</groupId>
@@ -120,6 +119,13 @@
 				<groupId>org.owasp</groupId>
 				<artifactId>dependency-check-maven</artifactId>
 				<version>8.2.1</version>
+				<executions>
+					<execution>
+						<goals>
+							<goal>check</goal>
+						</goals>
+					</execution>
+				</executions>
 				<configuration>
 					<skipTestScope>false</skipTestScope>
 					<formats>
@@ -225,7 +231,7 @@
 				<reportSets>
 					<reportSet>
 						<reports>
-							<report>site</report>
+							<report>aggregate</report>
 						</reports>
 					</reportSet>
 				</reportSets>
